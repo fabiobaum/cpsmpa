@@ -1,0 +1,22 @@
+div{ 
+    margin: 200px; 
+    border-color: aqua;
+    border-width: 2px;
+    border-style: double;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: bisque
+
+
+#p2{
+    color: dodgerblue;
+    background-color: darkviolet
+}
+
+.alerta{
+    background-color: yellowgreen;
+    margin-right: 750px;
+    margin-left: 0px;
+    margin-bottom: 100px
+}
